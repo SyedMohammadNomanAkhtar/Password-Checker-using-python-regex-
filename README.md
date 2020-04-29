@@ -1,5 +1,5 @@
 # Password-Checker-using-python-regex-
-I built this for some fun activity but both are legit and working.
+I built this for learning RegEx but both are legit and working.
 # First Checker
 First takes atleast 8 characters including any speacial characters.
 # Second Checker
